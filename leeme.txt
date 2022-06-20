@@ -1,0 +1,14 @@
+colores a usar
+
+fondo: 271F30
+texto copy: 6C5A49
+tecnologia: 65A1A5
+portofolio:C8AD55
+contactanos: 9BC59D
+texto de todo: D0FCB3
+
+09-06-22: 
+
++ tengo que configurar bien los tamaños de las burbujas.
++ tengo que hacer que las burbujas de la derecha tengan todas la misma animacion.-
+
